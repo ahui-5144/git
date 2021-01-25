@@ -9,5 +9,6 @@ public class Apple {
         System.out.println("小苹果");
         System.out.println("test 冲突");
         System.out.println("GitTest02 clone");
+        System.out.println("test branch");
     }
 }
